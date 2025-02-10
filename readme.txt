@@ -1,6 +1,6 @@
 Welcome to my project!
 
-Author:Thomas huber
+Author:Thomas Huber
 
 Twitter:@shah
 
